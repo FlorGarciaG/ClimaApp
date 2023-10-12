@@ -1,3 +1,4 @@
+//Programa de clima estadisticas
 var temperaturas = [];
 var Dias = [];
 var promediodiario = [];
